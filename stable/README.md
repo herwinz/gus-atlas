@@ -1,5 +1,5 @@
 # Atlas Helm Charts
-[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/atlas)](https://artifacthub.io/packages/search?repo=atlas)
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/gus-atlas)](https://artifacthub.io/packages/search?repo=gus-atlas)
 
 ## Overview
 

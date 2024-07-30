@@ -1,5 +1,5 @@
 # Atlas Helm Charts
-[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/gus-atlas)](https://artifacthub.io/packages/search?repo=gus-atlas)
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/privy-atlas)](https://artifacthub.io/packages/search?repo=privy-atlas)
 
 ## Overview
 
@@ -26,7 +26,7 @@ Welcome to Atlas the Universal Helm Chart repository! This Helm Chart is designe
 ## Installation
 
 ```bash
-helm repo add atlas https://cyberstackober.github.io/atlas/stable/  
+helm repo add atlas https://privy-infra.github.io/atlas/stable/  
 helm repo update
 helm install my-atlas atlas/atlas [--version=1.0.0]
 ```
@@ -275,4 +275,5 @@ This project is licensed under the [MIT License](./LICENSE).
 ```
 
 Remember to replace the placeholder URLs, names, and images with your actual details. Customize the sections as needed for your specific Helm Chart.
+
 ```

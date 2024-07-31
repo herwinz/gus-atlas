@@ -190,7 +190,7 @@ ingress:
     # - ingressName: "internal"
     #   className: "internal-nginx"
     #   rules:
-    #     - host: atlas.privyinfra.id
+    #     - host: gus-atlas.herwin.my.id
     #       http:
     #         paths:
     #           - path: /rc(?:\/|$)(.*)
@@ -203,7 +203,7 @@ ingress:
     # - ingressName: "b2b-ingress"
     #   className: "internal-nginx"
     #   rules:
-    #     - host: atlas.privyinfra.id
+    #     - host: gus-atlas.herwin.my.id
     #       http:
     #         - path: /(.*)
     #           pathType: Prefix

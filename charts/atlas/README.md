@@ -26,7 +26,7 @@ Welcome to Atlas the Universal Helm Chart repository! This Helm Chart is designe
 ## Installation
 
 ```bash
-helm repo add atlas https://gus-infra.github.io/atlas/stable/  
+helm repo add atlas https://privy-infra.github.io/atlas/stable/  
 helm repo update
 helm install my-atlas atlas/atlas [--version=1.0.0]
 ```

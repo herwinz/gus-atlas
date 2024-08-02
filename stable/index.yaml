@@ -5,7 +5,19 @@ entries:
       artifacthub.io/changes: "- kind: added\n  description: Add custom strategy "
     apiVersion: v2
     appVersion: production
-    created: "2024-08-01T17:04:34.063452+07:00"
+    created: "2024-08-02T15:56:19.421082+07:00"
+    description: A Helm chart to manage deployment Kubernetes
+    digest: 3b03fa9aa8c7630d1e566a06d132ecabd1129b8417945ea067f4808cd0d15ca9
+    name: gus-atlas
+    type: application
+    urls:
+    - https://cyberstackover.github.io/gus-atlas/stable/gus-atlas-1.0.5.tgz
+    version: 1.0.5
+  - annotations:
+      artifacthub.io/changes: "- kind: added\n  description: Add custom strategy "
+    apiVersion: v2
+    appVersion: production
+    created: "2024-08-02T15:56:19.42026+07:00"
     description: A Helm chart to manage deployment Kubernetes
     digest: 074d6b0c32e262727df1df13f4987c5be2f180b4c51cab1bfab3f4154e2da408
     name: gus-atlas
@@ -15,7 +27,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: production
-    created: "2024-08-01T17:04:34.061925+07:00"
+    created: "2024-08-02T15:56:19.4194+07:00"
     description: A Helm chart to manage deployment Kubernetes
     digest: 9dfa783a5c0599e862d557c9e5234bce40ed746b3fc8f8f65d3b63041af052b6
     name: gus-atlas
@@ -23,4 +35,4 @@ entries:
     urls:
     - https://cyberstackover.github.io/gus-atlas/stable/gus-atlas-1.0.3.tgz
     version: 1.0.3
-generated: "2024-08-01T17:04:34.060863+07:00"
+generated: "2024-08-02T15:56:19.418316+07:00"

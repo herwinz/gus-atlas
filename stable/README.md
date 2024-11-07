@@ -26,7 +26,7 @@ Welcome to Atlas the Universal Helm Chart repository! This Helm Chart is designe
 ## Installation
 
 ```bash
-helm repo add atlas https://cyberstackover.github.io/gus-atlas/stable/  
+helm repo add atlas https://herwinz.github.io/gus-atlas/stable/  
 helm repo update
 helm install my-atlas gus-atlas/gus-atlas [--version=1.0.3]
 ```

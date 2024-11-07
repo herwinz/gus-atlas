@@ -11,7 +11,7 @@ entries:
     name: gus-atlas
     type: application
     urls:
-    - https://cyberstackover.github.io/gus-atlas/stable/gus-atlas-1.0.5.tgz
+    - https://herwinz.github.io/gus-atlas/stable/gus-atlas-1.0.5.tgz
     version: 1.0.5
   - annotations:
       artifacthub.io/changes: "- kind: added\n  description: Add custom strategy "
@@ -23,7 +23,7 @@ entries:
     name: gus-atlas
     type: application
     urls:
-    - https://cyberstackover.github.io/gus-atlas/stable/gus-atlas-1.0.4.tgz
+    - https://herwinz.github.io/gus-atlas/stable/gus-atlas-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v2
     appVersion: production
@@ -33,6 +33,6 @@ entries:
     name: gus-atlas
     type: application
     urls:
-    - https://cyberstackover.github.io/gus-atlas/stable/gus-atlas-1.0.3.tgz
+    - https://herwinz.github.io/gus-atlas/stable/gus-atlas-1.0.3.tgz
     version: 1.0.3
 generated: "2024-08-02T15:56:19.418316+07:00"
